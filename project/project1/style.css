@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table{
+    height:40%;
+    width:100%;
+    background-color: blue;
+}
+
+.heading1{
+    padding-right: 50%;
+    padding-bottom: 10%;
+    color: blanchedalmond;
+    font-size: 30px;
+    padding-top:5%;
+}
+h4{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
