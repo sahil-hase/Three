@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: cursive;
+}
+
+.three{
+    background-color: blueviolet;
+    height: 100%;
+    width: 100%;
+}
+
+.menu{
+    color:white;
+    font-family:monospace;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.para{
+    text-align: center;
+    color:white
+}
+
+.flex1{
+    margin-left: 100%;
+    padding-top: 7% ;
+    border-radius: 500px;
+}
+img{
+    border-radius: 50%;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+    margin-top: 7%;
+    justify-content: space-evenly;
+}
+.color{;
+padding-bottom: -100%;
+margin-right: 10%;
+justify-content: space-evenly;
+}
+
+.image1{
+padding-right: 10%;
+}
+
+.image3{
+   padding-right:10%;
+   justify-content: space-evenly;
+}
+
+.rice{
+font-style: italic;
+color:blanchedalmond;
+font-size: 30px;
+margin-left: 30%;
+}
+
+.price{font-style: italic;
+    color:blanchedalmond;
+    font-size: 50px;
+    margin-left: 28%;
+}
+
+.buy{
+    color:blanchedalmond;
+    font-style: italic;
+    font-size: 20px;
+    margin-left: 33%;
+}
